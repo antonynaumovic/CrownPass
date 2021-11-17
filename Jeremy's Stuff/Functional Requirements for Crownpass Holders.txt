@@ -1,0 +1,42 @@
+Functional Requirements (Crownpass Holders):
+- Registration (High): 
+General public users can register to the Crownpass system to obtain: Crownpass ID
+
+Information required for registration: Real photo of the person.
+
+Information optionally for registration includes: mobile phone number, email address, home address, name, gender, date of birth
+
+- Print Pass (High):
+A registered Crownpass holder can print his/her pass on a sheet of paper.
+
+The piece of paper includes: a photo of the pass, QR code (2D barcode) that represents the pass holder's identifier
+
+- Display Pass (High):
+A registered Crownpass holder should be able to display his/her pass on the screen of his/her mobile phone where the Crownpass Holder App runs.
+
+Display Pass contains: photo of the pass holder, QR code (2D barcode), infection state of the pass, vaccination state of the pass.
+
+Infection state colours: Green, Amber, Red
+Vaccination state colours: White, Light Blue, Dark Blue
+
+- Check State (High):
+A registered Crownpass holder should be able to show the states of his/her pass on the screen of his/her mobile phone where the app runs.
+
+- Check Trace (Medium):
+A registered Crownpass holder should be able to display his/her movement trace (sequence of areas) that he/she has entered in a period. 
+
+This is shown on the mobile app.
+
+- Web Access (Medium):
+A registered Crownpass holder should be able to access the following data of the pass user by entering their Crownpass ID: Pass state, Contact details, Movement trace.
+
+Certain details can be rest, while other data cannot be modified by the pass holder.
+
+- Notification (Medium):
+The system should be able to notify the Crownpass holder when his/her pass state is changed.
+
+- Self Check-in and Check-out (Medium):
+The system should be able to enable the Crownpass holders to check-in and out from a controlled area using the mobile app.
+
+- Book Vacination (Low):
+A registered Crownpass holder should be provided a facility to book a vaccination at a vaccine station/centre on an available date and time slot of his/her choice.
