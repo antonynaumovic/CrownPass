@@ -30,7 +30,7 @@ This is shown on the mobile app.
 - Web Access (Medium):
 A registered Crownpass holder should be able to access the following data of the pass user by entering their Crownpass ID: Pass state, Contact details, Movement trace.
 
-Certain details can be rest, while other data cannot be modified by the pass holder.
+Certain details can be reset, while other data cannot be modified by the pass holder.
 
 - Notification (Medium):
 The system should be able to notify the Crownpass holder when his/her pass state is changed.
